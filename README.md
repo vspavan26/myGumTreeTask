@@ -12,13 +12,13 @@ Files Included
 
 Dependencies
 =============
-JRE should be installed
-I have given a batch file which when double clicked triggers the java application which reads the address book and answers the questions. 
-If you are using windows Operating system, you can execute the test by just double clicking the batch file. 
-If you are using any other OS, please execute the test by running it as a JAVA program(All necessary files are included)
+* JRE should be installed
+* I have given a batch file which when double clicked triggers the java application which reads the address book and answers the questions. 
+* If you are using windows Operating system, you can execute the test by just double clicking the batch file. 
+* If you are using any other OS, please execute the test by running it as a JAVA program(All necessary files are included)
 
 How to run tests(on Windows)
 =============
-Double click the ReadAddressBookandAnswerQuestions.bat
-cmd opens up pointing to the current directory and triggers MyTask program
-Results are displayed on the cmd
+* Double click the ReadAddressBookandAnswerQuestions.bat
+* cmd opens up pointing to the current directory and triggers MyTask program
+* Results are displayed on the cmd
