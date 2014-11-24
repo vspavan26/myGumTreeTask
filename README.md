@@ -4,11 +4,11 @@ The goal assigned to me is to develop a java application which reads an Address 
 
 Files Included
 =============
-ReadAddressBookandAnswerQuestions.bat - To be used to trigger the test
-MyTask.class - The class file of the java program which has the code to execute the test
-TaskHelper.class - The class file of the java program which has helper methods to execute MyTask program
-Success_Message.png - Screenshot of successful execution of this program
-src folder - This contains the source code of MyTask.java and TaskHelper.java
+* ReadAddressBookandAnswerQuestions.bat - To be used to trigger the test
+* MyTask.class - The class file of the java program which has the code to execute the test
+* TaskHelper.class - The class file of the java program which has helper methods to execute MyTask program
+* Success_Message.png - Screenshot of successful execution of this program
+* src folder - This contains the source code of MyTask.java and TaskHelper.java
 
 Dependencies
 =============
